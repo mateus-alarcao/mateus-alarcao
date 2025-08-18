@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Mateus%20Alarcão%20Alves&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0D1117,1c1c1c&height=150&section=header&text=Mateus%20Alarcão%20Alves&fontSize=36&fontColor=FFFFFF&fontAlignY=40&font=sans-serif"/>
 
 # 🤖 Mateus Alarcão Alves
 
@@ -69,7 +69,3 @@ Sou apaixonado por aprender, criar projetos e explorar novas tecnologias. 🚀
 
 ![Visitas](https://komarev.com/ghpvc/?username=mateus-alarcao&color=blue&style=for-the-badge)
 
----
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
