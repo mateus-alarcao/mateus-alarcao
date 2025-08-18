@@ -2,9 +2,8 @@
 
 **`Desenvolvedor Python | Estudante de Ciência da Computação | Cibersegurança`**
 
-Me chamo **Mateus Alarcão Alves**, tenho 19 anos. Atualmente, estou cursando **Ciência da Computação no CEUB**.  
-Tenho grande interesse em **Cibersegurança**, além de experiência em **Python e SQL**.  
-Sou apaixonado por aprender, criar projetos e explorar novas tecnologias. 🚀
+Me chamo Mateus Alarcão Alves, tenho 19 anos. Atualmente, estou cursando Ciência da Computação no Centro Universitario de Brasília (CEUB).  
+Tenho grande interesse em Cibersegurança, além de experiência em Python e SQL. 
 
 ---
 
