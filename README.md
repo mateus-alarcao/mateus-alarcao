@@ -1,6 +1,3 @@
-<!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0D1117,1c1c1c&height=150&section=header&text=Mateus%20Alarcão%20Alves&fontSize=36&fontColor=FFFFFF&fontAlignY=40&font=sans-serif"/>
-
 # 🤖 Mateus Alarcão Alves
 
 **`Desenvolvedor Python | Estudante de Ciência da Computação | Cibersegurança`**
