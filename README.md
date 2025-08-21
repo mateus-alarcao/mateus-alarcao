@@ -1,6 +1,6 @@
 # 🤖 Mateus Alarcão Alves
 
-**`Desenvolvedor Python | Estudante de Ciência da Computação | Cibersegurança`**
+Desenvolvedor Python | Estudante de Ciência da Computação
 
 Me chamo Mateus Alarcão Alves, tenho 19 anos. Atualmente, estou cursando Ciência da Computação no Centro Universitario de Brasília (CEUB).  
 Tenho grande interesse em Cibersegurança, além de experiência em Python e SQL. 
@@ -20,37 +20,68 @@ Tenho grande interesse em Cibersegurança, além de experiência em Python e SQL
 
 ---
 
-### ⚙️ Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" style="padding-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" style="padding-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" style="padding-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" style="padding-right:10px;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" title="Cibersegurança" alt="Cibersegurança" width="40" style="padding-right:10px;"/>
-</p>
+<img
+   align="left"
+   alt="Python"
+   title="Python"
+   width="30px"
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img
+   align="left"
+   alt="PostgreSQL"
+   title="PostgreSQL"
+   width="30px"
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+
+<img
+   align="left"
+   alt="Git"
+   title="Git"
+   width="30px"
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+<img
+   align="left"
+   alt="Linux"
+   title="Linux"
+   width="30px"
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
+
+<br/>
+<br/>
 
 ---
 
 ## 🎯 Em aprendizado
 
--  Segurança Ofensiva (Pentest, Forense Digital, Redes)  
--  Banco de Dados Avançado (SQL, PostgreSQL)  
--  Desenvolvimento Python  
+- Segurança Ofensiva (Pentest, Forense Digital, Redes)  
+- Banco de Dados Avançado (SQL, PostgreSQL)  
+- Desenvolvimento Python  
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
+<p align="left">
   <img 
     alt="GitHub Stats" 
-    height="180" 
+    height="200" 
     src="https://github-readme-stats.vercel.app/api?username=mateus-alarcao&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
   <img 
     alt="Top Linguagens" 
-    height="180" 
+    height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-alarcao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</
+</p>
