@@ -91,7 +91,7 @@ Atualmente, curso Ciência da Computação e complementei minha formação com e
   <a href="https://github.com/mateus-alarcao" style="display: inline-block; vertical-align: top;">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-alarcao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&random=1232245" 
-      style="height: 180px; width: auto;" 
+      style="height: 150px; width: auto;" 
     />
   </a>
 </div>
