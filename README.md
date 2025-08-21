@@ -20,15 +20,54 @@ Tenho grande interesse em Cibersegurança, além de experiência em Python e SQL
 
 ---
 
-## ⚙️ Tecnologias & Ferramentas
+### 🤖 Linguagens e Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cibersegurança](https://img.shields.io/badge/CyberSecurity-2F4F4F?style=for-the-badge&logo=hackaday&logoColor=white)
+<img
+   align="left"
+   alt="Python"
+   title="Python"
+   width="30px"
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
 
----
+<img
+   align="left"
+   alt="PostgreSQL"
+   title="PostgreSQL"
+   width="30px"
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+
+<img
+   align="left"
+   alt="Git"
+   title="Git"
+   width="30px"
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+<img
+   align="left"
+   alt="Linux"
+   title="Linux"
+   width="30px"
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
+
+<img
+   align="left"
+   alt="Cibersegurança"
+   title="Cibersegurança"
+   width="30px"
+   style="padding-right: 10px;"
+   src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+/>
+
+<br/>
 
 ## 🎯 Em aprendizado
 
@@ -58,10 +97,3 @@ Tenho grande interesse em Cibersegurança, além de experiência em Python e SQL
 ## 🚀 Projetos em Destaque
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus-alarcao&repo=USP---Ciencia-da-Computacao-com-Python&theme=tokyonight)](https://github.com/mateus-alarcao/USP---Ciencia-da-Computacao-com-Python)
-
----
-
-## 👀 Contador de Visitas
-
-![Visitas](https://komarev.com/ghpvc/?username=mateus-alarcao&color=blue&style=for-the-badge)
-
