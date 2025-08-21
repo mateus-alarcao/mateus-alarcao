@@ -20,7 +20,7 @@ Tenho grande interesse em Cibersegurança, além de experiência em Python e SQL
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img
    align="left"
@@ -58,8 +58,7 @@ Tenho grande interesse em Cibersegurança, além de experiência em Python e SQL
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
 
-<br/>
-<br/>
+<br/><br/>
 
 ---
 
@@ -85,3 +84,9 @@ Tenho grande interesse em Cibersegurança, além de experiência em Python e SQL
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-alarcao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus-alarcao&repo=USP---Ciencia-da-Computacao-com-Python&theme=tokyonight)](https://github.com/mateus-alarcao/USP---Ciencia-da-Computacao-com-Python)
