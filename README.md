@@ -1,13 +1,14 @@
 # 🤖 Mateus Alarcão Alves
 
-Desenvolvedor Python | Estudante de Ciência da Computação
+**`Ciência da Computação | Python | SQL | Linux | Cibersegurança`**
 
-Me chamo Mateus Alarcão Alves, tenho 19 anos. Atualmente, estou cursando Ciência da Computação no Centro Universitario de Brasília (CEUB).  
-Tenho grande interesse em Cibersegurança, além de experiência em Python e SQL. 
+Desde cedo, tive contato com tecnologia e logo percebi que queria entender mais do que apenas “usar” computadores: queria saber como eles funcionam por dentro. Essa curiosidade me levou a estudar programação, lógica e o funcionamento de sistemas, começando pelo Python e expandindo para bancos de dados, Linux, Git e entre outras.
 
----
+Atualmente, curso Ciência da Computação e complementei minha formação com estudos independentes e cursos especializados. Tenho grande interesse por cibersegurança, buscando criar soluções que aliem desempenho e segurança. Além disso, gosto de enfrentar desafios técnicos, explorar novas ferramentas e transformar ideias em projetos funcionais.
 
-## 🌐 Conecte-se comigo
+
+### 🌐 Conecte-se comigo
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alarcao-alves10/" target="_blank">
@@ -20,73 +21,85 @@ Tenho grande interesse em Cibersegurança, além de experiência em Python e SQL
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
+<div align="left">
+    <!-- Sistema operacional -->
+    <img 
+        alt="Linux" 
+        title="Linux" 
+        width="40px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+    />    
+    <!-- Controle de versão -->
+    <img 
+        alt="Git" 
+        title="Git" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+    />  
+    <!-- Linguagem de programação -->
+    <img 
+        alt="Python" 
+        title="Python" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    />    
+    <!-- IDEs -->
+    <img 
+        alt="PyCharm" 
+        title="PyCharm" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
+    />
+    <img 
+        alt="VSCode" 
+        title="VSCode" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+    />    
+    <!-- Bancos de dados -->
+    <img 
+        alt="MySQL" 
+        title="MySQL" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+    />
+    <img 
+        alt="PostgreSQL" 
+        title="PostgreSQL" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+    />    
+    <!-- Segurança e redes -->
+    <img 
+        alt="Wireshark" 
+        title="Wireshark" 
+        width="40px" 
+        src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg"
+    />
 
-<img
-   align="left"
-   alt="Python"
-   title="Python"
-   width="30px"
-   style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
+### 📊 Estatísticas do GitHub
 
-<img
-   align="left"
-   alt="PostgreSQL"
-   title="PostgreSQL"
-   width="30px"
-   style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
+<div align="center">
+  <a href="https://github.com/mateus-alarcao" style="display: inline-block; vertical-align: top;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=mateus-alarcao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&random=12445" 
+      style="height: 180px; width: auto;" 
+    />
+  </a>
 
-<img
-   align="left"
-   alt="Git"
-   title="Git"
-   width="30px"
-   style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
+  <a href="https://github.com/mateus-alarcao" style="display: inline-block; vertical-align: top;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-alarcao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&random=1232245" 
+      style="height: 180px; width: auto;" 
+    />
+  </a>
+</div>
 
-<img
-   align="left"
-   alt="Linux"
-   title="Linux"
-   width="30px"
-   style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-/>
-
-<br/><br/>
 
 ---
 
-## 🎯 Em aprendizado
-
-- Segurança Ofensiva (Pentest, Forense Digital, Redes)  
-- Banco de Dados Avançado (SQL, PostgreSQL)  
-- Desenvolvimento Python  
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=mateus-alarcao&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
-  <img 
-    alt="Top Linguagens" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-alarcao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
----
-
-## 🚀 Projetos em Destaque
-
+<div align="center">
+  
+  ### 🚀 Projetos em Destaque
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus-alarcao&repo=USP---Ciencia-da-Computacao-com-Python&theme=tokyonight)](https://github.com/mateus-alarcao/USP---Ciencia-da-Computacao-com-Python)
