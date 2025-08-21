@@ -58,16 +58,9 @@ Tenho grande interesse em Cibersegurança, além de experiência em Python e SQL
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
 
-<img
-   align="left"
-   alt="Cibersegurança"
-   title="Cibersegurança"
-   width="30px"
-   style="padding-right: 10px;"
-   src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
-/>
-
 <br/>
+
+---
 
 ## 🎯 Em aprendizado
 
