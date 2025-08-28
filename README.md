@@ -1,6 +1,6 @@
 # 🤖 Mateus Alarcão Alves
 
-**`Ciência da Computação | Python | SQL | Linux | Cibersegurança`**
+**`Ciência da Computação | Python | SQL | Linux | Git | Cibersegurança`**
 
 Desde cedo, tive contato com tecnologia e logo percebi que queria entender mais do que apenas “usar” computadores: queria saber como eles funcionam por dentro. Essa curiosidade me levou a estudar programação, lógica e o funcionamento de sistemas, começando pelo Python e expandindo para bancos de dados, Linux, Git e entre outras.
 
