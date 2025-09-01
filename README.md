@@ -93,21 +93,26 @@ Atualmente, curso Ciência da Computação e complementei minha formação com e
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <a href="https://github.com/mateus-alarcao" style="display: inline-block; vertical-align: top;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=mateus-alarcao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&random=12445" 
-      style="width: 400px; height: auto;" 
-    />
-  </a>
+### 📊 Estatísticas do GitHub
 
-  <a href="https://github.com/mateus-alarcao" style="display: inline-block; vertical-align: top;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-alarcao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&random=1232245" 
-      style="width: 400px; height: auto;" 
-    />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/mateus-alarcao">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=mateus-alarcao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mateus-alarcao">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-alarcao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
