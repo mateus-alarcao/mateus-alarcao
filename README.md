@@ -10,14 +10,17 @@ Atualmente, curso Ciência da Computação e complementei minha formação com e
 ### 🌐 Conecte-se comigo
 
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/alarcao-alves10/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40" alt="LinkedIn"/>
   </a>
   <a href="mailto:mateusalves0754@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-FF6F61?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=40" alt="Email"/>
   </a>
 </p>
+
+
+
 
 ---
 
