@@ -10,12 +10,12 @@ Atualmente, curso Ciência da Computação e complementei minha formação com e
 ### 🌐 Conecte-se comigo
 
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/alarcao-alves10/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:mateusalves0754@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Send-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-FF6F61?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -93,8 +93,6 @@ Atualmente, curso Ciência da Computação e complementei minha formação com e
 
 ### 📊 Estatísticas do GitHub
 
-### 📊 Estatísticas do GitHub
-
 <table align="center">
   <tr>
     <td>
@@ -119,4 +117,4 @@ Atualmente, curso Ciência da Computação e complementei minha formação com e
 <div align="center">
   
   ### 🚀 Projetos em Destaque
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus-alarcao&repo=USP---Ciencia-da-Computacao-com-Python&theme=tokyonight)](https://github.com/mateus-alarcao/USP---Ciencia-da-Computacao-com-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus-alarcao&repo=USP---Ciencia-da-Computacao-com-Python&theme=tokyonight)](https://github.com/mateus-alarcao/hospital-website)
