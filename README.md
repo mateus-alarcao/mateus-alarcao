@@ -77,6 +77,19 @@ Atualmente, curso Ciência da Computação e complementei minha formação com e
         width="40px" 
         src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg"
     />
+  <img 
+        alt="HTML5" 
+        title="HTML5" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    />
+    <img 
+        alt="CSS3" 
+        title="CSS3" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    />
+</div>
 
 ### 📊 Estatísticas do GitHub
 
