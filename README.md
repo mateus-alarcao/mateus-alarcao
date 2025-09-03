@@ -96,15 +96,21 @@ Atualmente, curso Ciência da Computação e complementei minha formação com e
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
+<table style="margin: auto;">
+  <tr>
+    <td>
+      <a href="https://github.com/mateus-alarcao">
+        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mateus-alarcao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mateus-alarcao">
+        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-alarcao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://github.com/mateus-alarcao">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mateus-alarcao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  </a><a href="https://github.com/mateus-alarcao">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-alarcao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-  </a>
-
-</div>
 
 
 
