@@ -26,28 +26,30 @@ Atualmente, curso Ciência da Computação e complementei minha formação com e
 
 ### 🤖 Linguagens e Tecnologias
 <div align="left">
-    <!-- Sistema operacional -->
     <img 
         alt="Linux" 
         title="Linux" 
         width="40px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
     />    
-    <!-- Controle de versão -->
     <img 
         alt="Git" 
         title="Git" 
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
     />  
-    <!-- Linguagem de programação -->
     <img 
         alt="Python" 
         title="Python" 
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
     />    
-    <!-- IDEs -->
+    <img 
+        alt="Django" 
+        title="Django" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+    />
     <img 
         alt="PyCharm" 
         title="PyCharm" 
@@ -60,7 +62,6 @@ Atualmente, curso Ciência da Computação e complementei minha formação com e
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
     />    
-    <!-- Bancos de dados -->
     <img 
         alt="MySQL" 
         title="MySQL" 
@@ -73,14 +74,19 @@ Atualmente, curso Ciência da Computação e complementei minha formação com e
         width="40px" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
     />    
-    <!-- Segurança e redes -->
+    <img 
+        alt="Oracle" 
+        title="Oracle Database" 
+        width="40px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+    />
     <img 
         alt="Wireshark" 
         title="Wireshark" 
         width="40px" 
         src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg"
     />
-  <img 
+    <img 
         alt="HTML5" 
         title="HTML5" 
         width="40px" 
