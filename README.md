@@ -119,4 +119,5 @@ Atualmente, curso Ciência da Computação e complementei minha formação com e
 <div align="center">
   
   ### 🚀 Projetos em Destaque
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus-alarcao&repo=android_website&theme=tokyonight)](https://github.com/mateus-alarcao/androi_website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus-alarcao&repo=android_website&theme=tokyonight)](https://github.com/mateus-alarcao/android_website)
+
