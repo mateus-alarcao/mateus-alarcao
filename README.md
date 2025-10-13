@@ -100,14 +100,10 @@ Atualmente, curso Ciência da Computação e complementei minha formação com e
 <table style="margin: auto;">
   <tr>
     <td>
-      <a href="https://github.com/mateus-alarcao">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus-alarcao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=60" />
-      </a>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus-alarcao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&cache_seconds=60" />
     </td>
     <td>
-      <a href="https://github.com/mateus-alarcao">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-alarcao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=60" />
-      </a>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-alarcao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=60" />
     </td>
   </tr>
 </table>
