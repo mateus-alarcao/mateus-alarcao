@@ -2,7 +2,7 @@
 
 **`Ciência da Computação | Python | SQL | Linux | Git | Cibersegurança`**
 
-Estudante de Ciência da Computação com foco em desenvolvimento de sistemas e cibersegurança. Experiência acadêmica e autodidata em Python, Linux, Git e bancos de dados relacionais. Interesse em soluções que priorizem segurança, desempenho e boas práticas de engenharia de software.
+Estudante de Ciência da Computação.
 
 
 ### 🌐 Conecte-se comigo
