@@ -2,9 +2,7 @@
 
 **`Ciência da Computação | Python | SQL | Linux | Git | Cibersegurança`**
 
-Desde cedo, tive contato com tecnologia e logo percebi que queria entender mais do que apenas “usar” computadores: queria saber como eles funcionam por dentro. Essa curiosidade me levou a estudar programação, lógica e o funcionamento de sistemas, começando pelo Python e expandindo para bancos de dados, Linux, Git e entre outras.
-
-Atualmente, curso Ciência da Computação e complementei minha formação com estudos independentes e cursos especializados. Tenho grande interesse por cibersegurança, buscando criar soluções que aliem desempenho e segurança. Além disso, gosto de enfrentar desafios técnicos, explorar novas ferramentas e transformar ideias em projetos funcionais.
+Estudante de Ciência da Computação com foco em desenvolvimento de sistemas e cibersegurança. Experiência acadêmica e autodidata em Python, Linux, Git e bancos de dados relacionais. Interesse em soluções que priorizem segurança, desempenho e boas práticas de engenharia de software.
 
 
 ### 🌐 Conecte-se comigo
