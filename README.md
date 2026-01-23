@@ -1,4 +1,4 @@
-# 🤖 Mateus Alarcão Alves
+#  Mateus Alarcão Alves
 
 **`Ciência da Computação | Python | SQL | Linux | Git | Cibersegurança`**
 
