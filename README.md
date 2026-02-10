@@ -1,122 +1,64 @@
 #  Mateus Alarcão Alves
 
-**`Ciência da Computação | Python | SQL | Linux | Git | Cibersegurança`**
+**`Dev Full Stack`**
 
 Estudante de Ciência da Computação.
 
+---
 
-### 🌐 Conecte-se comigo
-
+### 🌐 Meios de Comunicação
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alarcao-alves10/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40" alt="LinkedIn"/>
+    <img alt="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mateusalves0754@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=40" alt="Email"/>
+  <a href="mailto:mateusalves0754@gmail.com">
+    <img alt="Email"
+      src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-
-
-
 ---
 
-### 🤖 Linguagens e Tecnologias
-<div align="left">
-    <img 
-        alt="Linux" 
-        title="Linux" 
-        width="40px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-    />    
-    <img 
-        alt="Git" 
-        title="Git" 
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-    />  
-    <img 
-        alt="Python" 
-        title="Python" 
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-    />    
-    <img 
-        alt="Django" 
-        title="Django" 
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
-    />
-    <img 
-        alt="PyCharm" 
-        title="PyCharm" 
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
-    />
-    <img 
-        alt="VSCode" 
-        title="VSCode" 
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-    />    
-    <img 
-        alt="MySQL" 
-        title="MySQL" 
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-    />
-    <img 
-        alt="PostgreSQL" 
-        title="PostgreSQL" 
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-    />    
-    <img 
-        alt="Oracle" 
-        title="Oracle Database" 
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
-    />
-    <img 
-        alt="Wireshark" 
-        title="Wireshark" 
-        width="40px" 
-        src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg"
-    />
-    <img 
-        alt="HTML5" 
-        title="HTML5" 
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-    />
-    <img 
-        alt="CSS3" 
-        title="CSS3" 
-        width="40px" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-    />
-</div>
+###  Linguagens e Tecnologias
+
+<p align="left">
+  <img alt="Linux" width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img alt="Git" width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="Python" width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Django" width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+  <img alt="MySQL" width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img alt="PostgreSQL" width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="Oracle" width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+  <img alt="HTML5" width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS3" width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img alt="Java" width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+   <img alt="JavaScript" width="40px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</p>
+
+---
 
 ### 📊 Estatísticas do GitHub
 
-
-<table style="margin: auto;">
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus-alarcao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&cache_seconds=60" />
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-alarcao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=60" />
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
-
-  ### 🚀 Projetos em Destaque
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateus-alarcao&repo=android_website&theme=tokyonight)](https://github.com/mateus-alarcao/android_website)
-
+<p align="center">
+  <img
+    height="180em"
+    src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mateus-alarcao&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+  />
+  <img
+    height="180em"
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mateus-alarcao&layout=compact&langs_count=9&theme=tokyonight"
+  />
+</p>
