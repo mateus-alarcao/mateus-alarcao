@@ -1,9 +1,5 @@
 #  Mateus Alarcão Alves
 
-**`Dev Full Stack`**
-
-Estudante de Ciência da Computação.
-
 ---
 
 ### 🌐 Meios de Comunicação
