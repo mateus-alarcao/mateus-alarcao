@@ -33,18 +33,3 @@
   <img alt="Docker" title="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </p>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img
-    height="180em"
-    src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mateus-alarcao&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-  />
-  <img
-    height="180em"
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mateus-alarcao&layout=compact&langs_count=9&theme=tokyonight"
-  />
-</p>
