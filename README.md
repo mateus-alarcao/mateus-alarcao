@@ -1,7 +1,3 @@
-#  Mateus Alarcão Alves
-
-
-### 🌐 Meios de Comunicação
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alarcao-alves10/" target="_blank">
