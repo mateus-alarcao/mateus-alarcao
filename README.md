@@ -33,14 +33,14 @@
 
 <div align="center">
   <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api?username=RodrigoFreitasF&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=alarcao-alves10&show_icons=true&theme=radical&hide_border=true"
     alt="GitHub Stats"
   />
 
   <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoFreitasF&layout=compact&langs_count=5&theme=radical&hide_border=false"
-    alt="Most Used Languages"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alarcao-alves10&layout=compact&theme=radical&hide_border=true"
+    alt="Top Languages"
   />
 </div>
