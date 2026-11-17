@@ -28,19 +28,3 @@
 </p>
 
 ---
-
-### GitHub Stats
-
-<div align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=alarcao-alves10&show_icons=true&theme=radical&hide_border=true"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alarcao-alves10&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages"
-  />
-</div>
